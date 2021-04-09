@@ -1,2 +1,2 @@
 # Exchange-rate-app
-Android exchange rate app in Kotlin
+Student project: android exchange rate app in Kotlin 
